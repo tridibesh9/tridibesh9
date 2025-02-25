@@ -1,7 +1,7 @@
 
 # 🚀 Tridibesh Sarkar (aka 3D)
 
-![Banner]()  
+<!--![Banner]() -->
 
 ## 🛰️ Aerospace | 📊 Data Science | 💻 Full-Stack Dev
 
@@ -24,6 +24,7 @@ Hey there! I'm **Tridibesh Sarkar**, a sophomore at **IIT Kharagpur**, majoring 
 ### 🌟 Projects & Highlights
 
 🚀 **[Onepiece Hubon](https://www.onepiecehub.space/)** - All the lab calculations for Aerodynamics Lab 
+
 🚀 **[Aerodynamics Lab](https://github.com/tridibesh9/Aerodynamics-Lab-01)** - All the lab calculations for Aerodynamics Lab 
 🛰️ **[Structures Lab](https://github.com/tridibesh9/Structures_lab)** - Computational models for aerospace applications  
 🎯 **[Portfolio](https://3dbesh-portfolio.vercel.app/)** - My personal projects & work showcase  
