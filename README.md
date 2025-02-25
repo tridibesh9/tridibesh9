@@ -1,7 +1,7 @@
 
 # 🚀 Tridibesh Sarkar (aka 3D)
 
-![Banner](https://i.postimg.cc/Dyn2zjjV/85208.jpg)  
+![Banner]()  
 
 ## 🛰️ Aerospace | 📊 Data Science | 💻 Full-Stack Dev
 
